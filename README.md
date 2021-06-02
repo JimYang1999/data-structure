@@ -1,1 +1,1 @@
-#Data structer in C / C++
+# data-structure in C / C++
