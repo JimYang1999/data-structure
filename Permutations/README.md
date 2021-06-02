@@ -43,4 +43,4 @@ void perm(char* list, int i, int n)
 }
 ```
 - Trace
-	![image](https://github.com/azxa318258p/Permutations/blob/c414e50e34acdfa9bc443a5012a3f465e13d3095/93D170DA-3D26-4F18-8914-AB32A1316F6C.png)
+	![image](https://github.com/azxa318258p/data-structure/blob/37d6807af05819f1317279342a097e90fda0f53a/Permutations/93D170DA-3D26-4F18-8914-AB32A1316F6C.png)
