@@ -1,5 +1,5 @@
-# binominal-coefficient
-data structure in C --binominal coefficient
+# binomial-coefficient
+data structure in C --binomial-coefficient
 - 分析<br>
    - Base Case：if （n == m || m == 0) ⇒ return 1
    - General Case：ohterwise ⇒ return BinomialCoefficient( n-1, m) + BinomialCoefficient( n-1, m-1)
