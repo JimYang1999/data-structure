@@ -14,10 +14,10 @@ data structure in C --Tower of Hanoi
       end if 
     end
     ```
-![image](https://github.com/azxa318258p/Tower-of-Hanoi/blob/12e5c516e79e5dd3abdaf996042e9986516345bf/Hanoi.jpg)
-![image](https://github.com/azxa318258p/Tower-of-Hanoi/blob/8e0d325a1ada03cd9abc32d1891db8a69aac4904/Hanoi.PNG)
+![image](https://github.com/azxa318258p/data-structure/blob/cf094a8f57b62285a4a23a5a1af507adb69a2b35/Tower-of-Hanoi/Hanoi.jpg)
+![image](https://github.com/azxa318258p/data-structure/blob/cf094a8f57b62285a4a23a5a1af507adb69a2b35/Tower-of-Hanoi/Hanoi.PNG)
  - Time Complexity
-![image](https://github.com/azxa318258p/Tower-of-Hanoi/blob/41c49fc32694166193403734ef9ecbc12dde8dc0/HanoiTimeComplexity.jpg)
+![image](https://github.com/azxa318258p/data-structure/blob/cf094a8f57b62285a4a23a5a1af507adb69a2b35/Tower-of-Hanoi/HanoiTimeComplexity.jpg)
 --------------
 - 程式撰寫
 ```
